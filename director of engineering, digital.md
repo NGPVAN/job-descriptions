@@ -17,7 +17,7 @@ If so, this is your opportunity to manage industry-leading JavaScript applicatio
 Responsibilities
 ----------------
 
-* Oversee the engineering of our publicly facing applications used my millions of users
+* Oversee the engineering of our publicly facing applications used by millions of users
 * Manage several Scrum teams of software and quality engineers
 * Work with other departments to help define and plan a roadmap for the product
 * Work with engineering leadership to maximize efficiency across the company
