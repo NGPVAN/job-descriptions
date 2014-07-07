@@ -12,19 +12,19 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-• Experience with Linux distributions and maintenance
-• Experience with scripting languages (MS batch file, PowerShell, Bash, etc.)
-• Experience and understanding of Networking, DNS, load-balancing, and clustering technologies
-• Excellent written and oral communication skills
-• Ability to focus an prioritize in a fast-paced environment 
-• Ability to manage solutions from requirements to implementation
-• Ability to quickly triage problems under pressure, determine root cause, and resolve issues
+* Experience with Linux distributions and maintenance
+* Experience with scripting languages (MS batch file, PowerShell, Bash, etc.)
+* Experience and understanding of Networking, DNS, load-balancing, and clustering technologies
+* Excellent written and oral communication skills
+* Ability to focus an prioritize in a fast-paced environment 
+* Ability to manage solutions from requirements to implementation
+* Ability to quickly triage problems under pressure, determine root cause, and resolve issues
 Desired:
-• Experience with VMWare virtualization products
-• Experience with cloud services (AWS, Heroku, Azure, etc.)
-• Experience with configuration management tools (Chef/Puppet, PowerShell DST) 
-• Experience with continuous integration/continuous deployment (TeamCity)
-• Experience deploying centralized monitoring solutions
+* Experience with VMWare virtualization products
+* Experience with cloud services (AWS, Heroku, Azure, etc.)
+* Experience with configuration management tools (Chef/Puppet, PowerShell DST) 
+* Experience with continuous integration/continuous deployment (TeamCity)
+* Experience deploying centralized monitoring solutions
 
 About Us
 --------
