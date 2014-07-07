@@ -23,7 +23,7 @@ Responsibilities
 What we're looking for
 ----------------------
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
+You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
 * JavaScript expertise (not just jQuery wrangling; single-page application development or substantial Node.js use)
