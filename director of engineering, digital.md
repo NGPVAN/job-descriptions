@@ -27,7 +27,7 @@ Responsibilities
 What we're looking for
 ----------------------
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
+You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
 * Expertise with JavaScript (not just jQuery wrangling; single-page application development or substantial Node.js use)
 * Experience solving web scale problems
