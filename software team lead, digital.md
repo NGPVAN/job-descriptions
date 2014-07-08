@@ -10,6 +10,8 @@ Do you want to work on products that help make the world a better place?
 
 Do you like to ship early and often?
 
+Do you take pleasure in helping other engineers improve their craft?
+
 If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with:  Angular, DynamoDB, Elasticsearch, Mongo, Node, and ASP.NET (MVC and Web Api, latest versions).
 
 Responsibilities
@@ -17,8 +19,9 @@ Responsibilities
 
 * Design good systems
 * Write good code
+* Manage a team ~~good~~well
 * Ship good products (often)
-* Be a resource for the team and the company in a technical specialization
+
 
 Actual minimum requirements
 ---------------------------
