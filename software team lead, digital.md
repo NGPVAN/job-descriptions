@@ -19,7 +19,7 @@ Responsibilities
 
 * Design good systems
 * Write good code
-* Manage a team ~~good~~well
+* Manage a team ~~good~~ well
 * Ship good products (often)
 
 
