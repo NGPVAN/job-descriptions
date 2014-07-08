@@ -23,6 +23,10 @@ Responsibilities
 * Work with engineering leadership to maximize efficiency across the company
 * Ensure quality in all its glorious dimensions
 
+Actual minimum requirements
+---------------------------
+
+Unless you are really famous, we are not open to considering candidates with less than two years of software engineering management experience.
 
 What we're looking for
 ----------------------
