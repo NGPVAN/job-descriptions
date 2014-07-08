@@ -20,6 +20,11 @@ Responsibilities
 * Ship good products (often)
 * Be a resource for the team and the company in a technical specialization
 
+Actual minimum requirements
+---------------------------
+
+We are not open to considering candidates with less than two years of software engineering experience.
+
 What we're looking for
 ----------------------
 
