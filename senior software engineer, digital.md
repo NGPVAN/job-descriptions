@@ -24,10 +24,11 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
 
+* JavaScript expertise (bonus points if you know Angular, express or hapi)
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
-* Experience with ASP.NET; especially MVC or Web API
-* Working knowledge of web scalability problems and best practices
-* JavaScript expertise (not just jQuery wrangling; single-page application development or substantial Node.js use)
+* Working knowledge of web scalability problems and common solutions
+* Experience with C# (bonus points for MVC 4+ and Web API)
+* Knowledge of different kinds of persistence (we use PostgreSQL, DynamoDB, redis, MongoDB and neo4j)
 * Great communication skills
 
 About Us
