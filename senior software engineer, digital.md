@@ -28,7 +28,7 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# (bonus points for MVC 4+ and Web API)
-* Knowledge of different kinds of persistence (we use PostgreSQL, DynamoDB, redis, MongoDB and neo4j)
+* Knowledge of different kinds of persistence (we use PostgreSQL, DynamoDB, redis, MongoDB and elasticsearch in production)
 * Great communication skills
 
 About Us
