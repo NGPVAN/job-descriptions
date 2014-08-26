@@ -1,4 +1,4 @@
-Senior Software Engineer, Digital
+Software Engineer, Digital
 =================================
 *Washington, DC*
 
