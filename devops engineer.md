@@ -22,7 +22,7 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 Desired:
 * Experience with VMWare virtualization products
 * Experience with cloud services (AWS, Heroku, Azure, etc.)
-* Experience with configuration management tools (Chef/Puppet, PowerShell DST) 
+* Experience with configuration management tools (Ansible/Chef/Puppet, PowerShell DST) 
 * Experience with continuous integration/continuous deployment (TeamCity)
 * Experience deploying centralized monitoring solutions
 
