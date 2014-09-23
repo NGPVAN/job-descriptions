@@ -12,7 +12,7 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Experience with Linux distributions and maintenance
+* Experience with Linux distributions and maintenance, familiarity with other Desktop, Server and Mobile Operating Systems
 * Experience with scripting languages (MS batch file, PowerShell, Bash, etc.)
 * Experience and understanding of Networking, DNS, load-balancing, and clustering technologies
 * Excellent written and oral communication skills
@@ -22,7 +22,7 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 Desired:
 * Experience with VMWare virtualization products
 * Experience with cloud services (AWS, Heroku, Azure, etc.)
-* Experience with configuration management tools (Ansible/Chef/Puppet, PowerShell DST) 
+* Experience with configuration management tools (Ansible/Chef/Puppet, PowerShell DSC) 
 * Experience with continuous integration/continuous deployment (TeamCity)
 * Experience deploying centralized monitoring solutions
 
