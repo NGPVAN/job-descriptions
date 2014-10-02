@@ -23,7 +23,7 @@ Nice to have
 ------------
 
 * Experience with Amazon Web Services or Microsoft Azure
-* Familiarity with other NoSQL data stores:  Neo4j, MongoDB, or DynamoDB especially
+* Familiarity with other NoSQL data stores:  Neo4j, MongoDB, Redshift, or DynamoDB especially
 
 About Us
 --------
