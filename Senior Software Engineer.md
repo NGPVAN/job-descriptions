@@ -17,6 +17,7 @@ Responsibilities
 
 * Design good systems
 * Write good code
+* Help less senior engineers become more awesome
 * Ship good products (often)
 
 What we're looking for
