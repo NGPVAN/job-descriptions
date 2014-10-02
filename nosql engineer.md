@@ -15,15 +15,17 @@ You don't have to fit all of these bullets, but if you don't fit any of them, th
 
 * Experience with Elasticsearch and/or Apache Lucene or Solr
 * A working knowledge of Linux systems, shells, and scripting
-* Familiarity with common architecture patterns in NoSql stores
+* Familiarity with common architecture patterns in NoSQL stores
 * Experience with automation via modern tooling, e.g. Ansible/Chef/Puppet
-* Knowledge of distributed, highly-available systems
+* Deep understanding of distributed, highly-available systems
+* Experience working with large datasets and familiarity with Big Data concepts
 
 Nice to have
 ------------
 
 * Experience with Amazon Web Services or Microsoft Azure
-* Familiarity with other NoSQL data stores:  Neo4j, MongoDB, Redshift, or DynamoDB especially
+* Familiarity with other NoSQL data stores:  Neo4j, MongoDB, Amazon Redshift, Hadoop, or DynamoDB especially
+* Experience with relational databases and data warehousing 
 
 About Us
 --------
