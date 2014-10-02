@@ -1,11 +1,11 @@
-Data Engineer
-===============
+NoSQL Engineer
+==============
 *Boston, MA* or *Washington, DC*
 
 Responsibilities
 ----------------
 
-As a data engineer, you will oversee the operations of our Elasticsearch cluster.  You will be responsible for document design, analysis, and performance.  You will collaborate with engineers across the company, helping them to understand and implement document storage best practices.
+As a NoSQL engineer, you will be responsible for our existing NoSQL data stores, and will help us make good decisions when exploring new technologies.  You will oversee the operations of our Elasticsearch cluster, with responsibility for document design, analysis, and performance.  You will collaborate with engineers across the company, helping them to understand and implement document storage best practices.
 
 
 What we're looking for
@@ -18,6 +18,12 @@ You don't have to fit all of these bullets, but if you don't fit any of them, th
 * Familiarity with common architecture patterns in NoSql stores
 * Experience with automation via modern tooling, e.g. Ansible/Chef/Puppet
 * Knowledge of distributed, highly-available systems
+
+Nice to have
+------------
+
+* Experience with Amazon Web Services or Microsoft Azure
+* Familiarity with other NoSQL data stores:  Neo4j, MongoDB, or DynamoDB especially
 
 About Us
 --------
