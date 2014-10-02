@@ -36,6 +36,6 @@ The position offers competitive compensation and a strong benefits package. NGP 
 How to Apply
 ------------
 
-Send a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one, along with salary requirements, to jobs@ngpvan.com.  (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
+Send a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one, along with salary requirements, to jobs@ngpvan.com.  (All emails to that address are reviewed by engineering and data staff here - we just don't want to get our personal emails spammed.)
 
 NGP VAN is an equal opportunity employer. We ensure that discrimination does not occur against any employee or applicant on the basis of race, ethnicity, color, age, sex, national origin, marital status, sexual orientation, religious affiliation, disability, or any other classification that offends our liberal sensibilities.
