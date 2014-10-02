@@ -24,12 +24,16 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
 
-
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET (bonus points for MVC 4+ and Web API)
 * Strong Javascript skills - Angular experience is great
 * Great communication skills
+
+Actual minimum requirements
+---------------------------
+
+Senior can mean different things to different people, but for us it means you have a minimum of 5 years of engineering experience and at least 2 with the primary technologies we are using.
 
 About Us
 --------
