@@ -16,15 +16,18 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 * Experience with scripting languages (MS batch file, PowerShell, Bash, etc.)
 * Experience and understanding of Networking, DNS, load-balancing, and clustering technologies
 * Excellent written and oral communication skills
-* Ability to focus an prioritize in a fast-paced environment 
+* Ability to focus and prioritize in a fast-paced environment 
 * Ability to manage solutions from requirements to implementation
 * Ability to quickly triage problems under pressure, determine root cause, and resolve issues
+* Facility with security best practices and server monitoring tools (New Relic, AppFirst, etc.)
 Desired:
 * Experience with VMWare virtualization products
 * Experience with cloud services (AWS, Heroku, Azure, etc.)
 * Experience with configuration management tools (Ansible/Chef/Puppet, PowerShell DSC) 
 * Experience with continuous integration/continuous deployment (TeamCity)
 * Experience deploying centralized monitoring solutions
+* Experience with Drupal maintenance and site lifecycle management (Aegir experience a plus)
+* Familiarity with Apache, MySQL, and Varnish administration
 
 About Us
 --------
@@ -33,7 +36,7 @@ NGP VAN (https://coderwall.com/team/ngp-van) is the world’s leading political 
 
 We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the country distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools for labor unions, environmental groups, pro-choice advocates, civil rights activists, and international political parties across the world.  Our fundraising and compliance software is used by the vast majority of Democratic candidates from the Presidential level on down, and our fast-growing new media platform has recently become the most-used platform by Democratic campaigns as well.
 
-We are a successful and growing company with room for career advancement.  NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.  
+We are a successful and growing company with room for career advancement.  NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.
 
 Compensation
 ------------
