@@ -12,22 +12,25 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Experience with Linux distributions and maintenance, familiarity with other Desktop, Server and Mobile Operating Systems
-* Experience with scripting languages (MS batch file, PowerShell, Bash, etc.)
-* Experience and understanding of Networking, DNS, load-balancing, and clustering technologies
+* Experience with Linux distributions and maintenance
+* Experience with scripting languages (Bash, PowerShell, etc.)
+* Experience with and understanding of networking, DNS, load-balancing, and clustering technologies
+* Experience with continuous integration/continuous deployment (TeamCity)
+* Understanding of security best practices
 * Excellent written and oral communication skills
 * Ability to focus and prioritize in a fast-paced environment 
 * Ability to manage solutions from requirements to implementation
 * Ability to quickly triage problems under pressure, determine root cause, and resolve issues
-* Facility with security best practices and server monitoring tools (New Relic, AppFirst, etc.)
-Desired:
+
+Nice to have
+------------
+
 * Experience with VMWare virtualization products
 * Experience with cloud services (AWS, Heroku, Azure, etc.)
 * Experience with configuration management tools (Ansible/Chef/Puppet, PowerShell DSC) 
-* Experience with continuous integration/continuous deployment (TeamCity)
-* Experience deploying centralized monitoring solutions
-* Experience with Drupal maintenance and site lifecycle management (Aegir experience a plus)
+* Familiarity with server monitoring tools (Nagios, New Relic, AppFirst, etc.)
 * Familiarity with Apache, MySQL, and Varnish administration
+* Experience with Drupal maintenance and site lifecycle management (Aegir experience a plus)
 
 About Us
 --------
