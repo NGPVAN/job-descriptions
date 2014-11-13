@@ -10,7 +10,7 @@ Here are some example projects our past interns have worked on:
 
 We enjoy tailoring summer projects to match the skills and interests of our interns, including opportunities to work on visualizations, analytic tools, and fast algorithms on the client or server side.
 
-To best accommodate summer availability our program will generally run 10 weeks, from Monday, June 9, 2014 to Friday, August 15. Start and end dates are flexible. 
+Our internships are full time, for 10 weeks.  Pay is competitive, and depends on previous experience.
 
 Our goal with this program is to find developers who share our passion for applying technology to progressive causes, for future permanent employment. We also appreciate fresh perspectives on how to approach the data problems of political campaigns and allied organizations. If you are interested please contact us at [jobs@ngpvan.com](mailto:jobs@ngpvan.com).
 
