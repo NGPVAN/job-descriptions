@@ -14,4 +14,4 @@ To best accommodate summer availability our program will generally run 10 weeks,
 
 Our goal with this program is to find developers who share our passion for applying technology to progressive causes, for future permanent employment. We also appreciate fresh perspectives on how to approach the data problems of political campaigns and allied organizations. If you are interested please contact us at [internships@ngpvan.com](mailto:internships@ngpvan.com).
 
-_NGP VAN is an equal opportunity employer. We ensure that discrimination does not occur against any employee or applicant on the basis of race, ethnicity, color, age, sex, national origin, marital status, sexual orientation, religious affiliation, disability, or any other classification that offends our liberal sensibilities. We do not, however, hire Republicans._
+_NGP VAN is an equal opportunity employer. We ensure that discrimination does not occur against any employee or applicant on the basis of race, ethnicity, color, age, sex, national origin, marital status, sexual orientation, religious affiliation, disability, or any other classification that offends our liberal sensibilities._
