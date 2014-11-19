@@ -17,7 +17,7 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 * Experience with and understanding of networking, DNS, load-balancing, and clustering technologies
 * Experience with continuous integration/continuous deployment (TeamCity)
 * Understanding of security best practices
-* Excellent written and oral communication skills
+* Excellent written and verbal communication skills
 * Ability to focus and prioritize in a fast-paced environment 
 * Ability to manage solutions from requirements to implementation
 * Ability to quickly triage problems under pressure, determine root cause, and resolve issues
