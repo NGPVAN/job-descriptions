@@ -50,7 +50,7 @@ NGP VAN has been recognized as one of the fastest growing companies in America b
 Compensation
 ------------
 
-The position offers competitive compensation and a strong benefits package, including three weeks paid time off, generous parental leave, full medical coverage, and 401(k) profit sharing. NGP VAN prides itself on being a progressive and open-minded workplace; we have a fun and relaxed company culture, including blowing off steam on a softball field, drinking in the office on Fridays, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
+The positions offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive workplace; we have a fun and inclusive company culture, where we value teamwork, professional development, and work-life balance. We have your usual tech company perks whether you are a veteran or just getting started in your career, including relaxing (often) and winning (occasionally) on a softball field, food and drinks in the office on Fridays while watching team demo videos, generous parental leave, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
 
 How to Apply
 ------------
