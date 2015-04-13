@@ -27,7 +27,7 @@ Responsibilities
 Actual minimum requirements
 ---------------------------
 
-Unless you are really famous, we are not open to considering candidates with less than two years of software engineering management experience.
+We are not open to considering candidates with less than two years of software engineering management experience.  (We are probably still hiring for your background in a different role, though!)
 
 What we're looking for
 ----------------------
