@@ -19,8 +19,10 @@ Responsibilities
 * Manage multiple Scrum teams of software and quality engineers
 * Help our engineers and less experienced managers grow professionally
 * Work extensively with our client services, data, and especially product team to make sure we are making the best decisions for the company (not just for the department)
+* Grow our organization through active recruiting of new talent
 * Work with engineering leadership to maximize efficiency across the company
 * Ensure quality in all its glorious dimensions
+* Make sure we are continuously improving
 
 Actual minimum requirements
 ---------------------------
