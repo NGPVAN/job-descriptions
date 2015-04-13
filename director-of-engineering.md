@@ -32,8 +32,7 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Exceptional communication skills
-* Experience managing more than one team at a time
+* Experience managing more than one team at a time/managing other managers
 * Experience solving web scale problems
 * Experience with some or all of our tech stack - ASP.NET, Angular, and Microsoft SQL
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
