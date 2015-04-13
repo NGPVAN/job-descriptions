@@ -2,13 +2,13 @@ Director of Engineering
 ================
 *Somerville, MA*
 
-Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
+Do you have a passion for creating modern and compelling applications with simple, readable and maintainable code?
 
-Do you want to build products that help make the world a better place?
+Do you want to build tools that help make the world a better place?
 
 Do you like to ship early and often?
 
-Do you enjoy working with a diverse group of talented and passionate team members to make sure things are the best they can possibly be?
+Do you enjoy working with a diverse, talented, and passionate team to make sure our products are great and our clients are successful?
 
 If so, this is your opportunity to manage the development of our industry-leading applications, in a position where your work can make a difference in millions of lives.
 
@@ -34,6 +34,7 @@ What we're looking for
 
 We don't expect candidates to have experience with all of this, but it is directly relevant to the role.
 
+* Experience growing engineering organizations
 * Experience managing more than one team at a time/managing other managers
 * Experience solving web scale problems
 * Experience with some or all of our tech stack - ASP.NET, Angular, and Microsoft SQL
