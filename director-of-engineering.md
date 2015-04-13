@@ -37,7 +37,6 @@ We don't expect candidates to have experience with all of this, but it is direct
 * Experience managing more than one team at a time/managing other managers
 * Experience solving web scale problems
 * Experience with some or all of our tech stack - ASP.NET, Angular, and Microsoft SQL
-* Demonstrated contributions to the open source community (such as through an active GitHub account)
 
 About Us
 --------
