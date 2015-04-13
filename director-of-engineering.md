@@ -32,7 +32,7 @@ Unless you are really famous, we are not open to considering candidates with les
 What we're looking for
 ----------------------
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
+We don't expect candidates to have experience with all of this, but it is directly relevant to the role.
 
 * Experience managing more than one team at a time/managing other managers
 * Experience solving web scale problems
