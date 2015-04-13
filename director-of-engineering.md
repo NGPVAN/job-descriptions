@@ -8,15 +8,16 @@ Do you want to build products that help make the world a better place?
 
 Do you like to ship early and often?
 
-Do you enjoy working with other talented and passionate individuals to make sure things are the best they can possibly be?
+Do you enjoy working with a diverse group of talented and passionate team members to make sure things are the best they can possibly be?
 
-If so, this is your opportunity to manage the development of our industry leading applications, in a position where your work can make a difference in millions of lives.
+If so, this is your opportunity to manage the development of our industry-leading applications, in a position where your work can make a difference in millions of lives.
 
 Responsibilities
 ----------------
 
 * Oversee the engineering of our organizing tools used by nearly everyone in the progressive space
 * Manage multiple Scrum teams of software and quality engineers
+* Help our engineers and less experienced managers grow professionally
 * Work with other departments to help define and plan a roadmap for the product
 * Work with engineering leadership to maximize efficiency across the company
 * Ensure quality in all its glorious dimensions
@@ -31,11 +32,10 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Expertise with JavaScript (not just jQuery wrangling; single-page application development or substantial Node.js use)
-* Experience solving web scale problems
-* Experience with ASP.NET
-* Knowledge of SQL and ORM best practices
 * Exceptional communication skills
+* Experience managing more than one team at a time
+* Experience solving web scale problems
+* Experience with some or all of our tech stack - ASP.NET, Angular, and Microsoft SQL
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
 
 About Us
@@ -50,7 +50,7 @@ NGP VAN has been recognized as one of the fastest growing companies in America b
 Compensation
 ------------
 
-The position offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive and open-minded workplace; we have a fun and relaxed company culture, including blowing off steam on a softball field, drinking in the office on Fridays, enjoying periodic company retreats to warm places with beaches, and casual Friday every day. 
+The position offers competitive compensation and a strong benefits package, including three weeks paid time off, generous parental leave, full medical coverage, and 401(k) profit sharing. NGP VAN prides itself on being a progressive and open-minded workplace; we have a fun and relaxed company culture, including blowing off steam on a softball field, drinking in the office on Fridays, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
 
 How to Apply
 ------------
