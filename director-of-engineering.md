@@ -18,7 +18,7 @@ Responsibilities
 * Oversee the engineering of our organizing tools used by nearly everyone in the progressive space
 * Manage multiple Scrum teams of software and quality engineers
 * Help our engineers and less experienced managers grow professionally
-* Work with other departments to help define and plan a roadmap for the product
+* Work extensively with our client services, data, and especially product team to make sure we are making the best decisions for the company (not just for the department)
 * Work with engineering leadership to maximize efficiency across the company
 * Ensure quality in all its glorious dimensions
 
