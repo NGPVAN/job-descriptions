@@ -4,7 +4,7 @@ Software QA Engineer
 
 Do you want to work on products that help make the world a better place?
 
-Do you enjoy working with a diverse, talented, and passionate team to make sure products are great and clients are successful?
+Would you enjoy working with a diverse, talented, and passionate team to make sure products are great and clients are successful?
 
 Do you love to be working with the latest technology and tools?
 
