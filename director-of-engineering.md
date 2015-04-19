@@ -8,7 +8,7 @@ Do you want to build tools that help make the world a better place?
 
 Do you like to ship early and often?
 
-Do you enjoy working with a diverse, talented, and passionate team to make sure products are great and clients are successful?
+Would you enjoy working with a diverse, talented, and passionate team to make sure products are great and clients are successful?
 
 If so, this is your opportunity to manage the development of our industry-leading applications, in a position where your work can make a difference in millions of lives.
 
