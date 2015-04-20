@@ -6,7 +6,7 @@ Do you want to work on products that help make the world a better place?
 
 Would you enjoy working with a diverse, talented, and passionate team to make sure products are great and clients are successful?
 
-Do you love to be working with the latest technology and tools?
+Do you love working with the latest technology and tools?
 
 If so, this is your opportunity to work on industry-leading applications, in a position where your work can make a difference in millions of lives.
 
@@ -14,7 +14,7 @@ Responsibilities
 ----------------
 
 * Build automated functional and regression tests for our enterprise web application
-* Troubleshooting broken tests
+* Troubleshoot broken tests
 * Expand and maintain our testing infrastructure
 
 Actual minimum requirements
@@ -25,7 +25,7 @@ We are not open to considering candidates who do not have experience programming
 What we're looking for
 ----------------------
 
-We don't expect candidates to have experience with all of this, but it is directly relevant to the role.
+We don't require candidates to have experience with all of this to begin with, but it is directly relevant to the role.
 
 * Familiarity with C# - this is a programming position
 * Familiarity with version control systems - preferably git
@@ -45,7 +45,7 @@ NGP VAN has been recognized as one of the fastest growing companies in America b
 Compensation
 ------------
 
-The positions offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive workplace; we have a fun and inclusive company culture, where we value teamwork, professional development, and work-life balance. We have your usual tech company perks whether you are a veteran or just getting started in your career, including relaxing (often) and winning (occasionally) on a softball field, happy hour in the office on Fridays, generous parental leave, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
+The position offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive workplace; we have a fun and inclusive company culture, where we value teamwork, professional development, and work-life balance. We have your usual tech company perks whether you are a veteran or just getting started in your career, including relaxing (often) and winning (occasionally) on a softball field, happy hour in the office on Fridays, generous parental leave, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
 
 How to Apply
 ------------
