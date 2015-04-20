@@ -32,7 +32,7 @@ We are not open to considering candidates with less than two years of software e
 What we're looking for
 ----------------------
 
-We don't expect candidates to have experience with all of this, but it is directly relevant to the role.
+We don't require candidates to have experience with all of this to begin with, but it is directly relevant to the role.
 
 * Experience growing engineering organizations
 * Experience managing more than one team at a time/managing other managers
@@ -51,7 +51,7 @@ NGP VAN has been recognized as one of the fastest growing companies in America b
 Compensation
 ------------
 
-The positions offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive workplace; we have a fun and inclusive company culture, where we value teamwork, professional development, and work-life balance. We have your usual tech company perks whether you are a veteran or just getting started in your career, including relaxing (often) and winning (occasionally) on a softball field, happy hour in the office on Fridays, generous parental leave, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
+The position offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive workplace; we have a fun and inclusive company culture, where we value teamwork, professional development, and work-life balance. We have your usual tech company perks whether you are a veteran or just getting started in your career, including relaxing (often) and winning (occasionally) on a softball field, happy hour in the office on Fridays, generous parental leave, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
 
 How to Apply
 ------------
