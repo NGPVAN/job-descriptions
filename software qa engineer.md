@@ -20,12 +20,12 @@ Responsibilities
 Actual minimum requirements
 ---------------------------
 
-We are not open to considering candidates who do not have experience programming.  (But we may be hiring QA analysts!)
+You need to have some experience programming to be considered for this position.  (But we may be hiring QA analysts!)
 
 What we're looking for
 ----------------------
 
-We don't require candidates to have experience with all of this to begin with, but it is directly relevant to the role.
+We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
 * Familiarity with C# - this is a programming position
 * Familiarity with version control systems - preferably git
@@ -40,7 +40,7 @@ NGP VAN is the world’s leading political technology firm, providing campaign a
 
 We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the United States distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools that enable labor unions, environmental groups, pro-choice advocates, civil rights activists, and progressive political parties to win their campaigns around the world. Our fundraising and compliance software is used by the majority of Democrats from the Presidential level on down, and our fast-growing digital platform has become the most-used toolset for Democratic campaigns as well.
 
-NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO. We are a successful and growing company with a passion for our employees’ career advancement. We are an open-minded, flexible workplace that values learning and contributions of many different kinds.
+NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO. We are a successful and growing company that cares about our employees’ career advancement. We are an open-minded, flexible workplace that values learning and contributions of many different kinds.
 
 Compensation
 ------------
