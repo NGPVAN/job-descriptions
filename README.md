@@ -1,3 +1,14 @@
+Open Positions
+==============
+
+* [Director of Engineering](/director of engineering.md) - *Boston, MA*
+* [Software Team Lead](/software team lead.md) - *Boston, MA* and *Washington, DC*
+* [Senior Software Engineer](/senior software engineer.md) - *Boston, MA* and *Washington, DC*
+* [Software Engineer](/software engineer.md) - *Boston, MA* and *Washington, DC*
+* [Software QA Engineer](/software qa engineer.md) - *Boston, MA* and *Washington, DC*
+* [Software QA Analyst](/software qa analyst.md) - *Boston, MA* and *Washington, DC*
+* [DevOps Engineer](/devops engineer.md) - *Boston, MA* and *Washington, DC*
+
 About Us
 ========
 
@@ -7,7 +18,7 @@ We built the voter contact and volunteer management tools used by Obama for Amer
  
 NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.  We are a successful and growing company that cares about our employees’ career advancement. We are an open-minded, flexible workplace that values learning and contributions of many different kinds.
 
-About this repo
----------------
+About This Repository
+=====================
 
 This is a public repository of our job descriptions in Engineering; not every position in here is open, but it should show in general what we look for in candidates and how our thinking has evolved on recruiting.  For current open positions, check out [our site](http://www.ngpvan.com/jobs).
