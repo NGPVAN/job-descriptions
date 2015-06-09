@@ -1,13 +1,11 @@
 Open Positions
 ==============
 
-* [Director of Engineering](/director of engineering.md) - *Boston, MA*
 * [Software Team Lead](/software team lead.md) - *Boston, MA* and *Washington, DC*
 * [Senior Software Engineer](/senior software engineer.md) - *Boston, MA* and *Washington, DC*
 * [Software Engineer](/software engineer.md) - *Boston, MA* and *Washington, DC*
-* [Software QA Engineer](/software qa engineer.md) - *Boston, MA* and *Washington, DC*
-* [Software QA Analyst](/software qa analyst.md) - *Boston, MA* and *Washington, DC*
-* [DevOps Engineer](/devops engineer.md) - *Boston, MA* and *Washington, DC*
+* [Software QA Engineer](/software qa engineer.md) - *Boston, MA*
+* [Software QA Analyst](/software qa analyst.md) - *Boston, MA*
 
 About Us
 ========
