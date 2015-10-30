@@ -13,8 +13,7 @@ If so, this is your opportunity to work on industry-leading applications, in a p
 Responsibilities
 ----------------
 
-* Write test plans for newly-developed products and features
-* Execute test plans and/or ensure other team members are running through test plans
+* Write test plans and execute them for new features and applications
 * Build automated functional and regression tests for our enterprise web application
 * Expand and maintain our testing infrastructure
 
