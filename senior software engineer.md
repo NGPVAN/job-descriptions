@@ -55,4 +55,4 @@ How to Apply
 
 Send a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one, along with salary requirements, to jobs@ngpvan.com.  (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
 
-NGP VAN is an equal opportunity employer. We ensure that discrimination does not occur against any employee or applicant on the basis of race, ethnicity, color, age, sex, national origin, marital status, sexual orientation, religious affiliation, disability, or any other classification that offends our liberal sensibilities.
+_NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
