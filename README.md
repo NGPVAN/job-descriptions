@@ -2,6 +2,7 @@ Open Positions
 ==============
 
 * [Software Engineer](/software engineer.md) - *Washington, DC*
+* [System Administrator I (IT Help Desk)](/system administrator i.md) - *Somerville, MA*
 
 About Us
 ========
