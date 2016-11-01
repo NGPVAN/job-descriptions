@@ -1,11 +1,7 @@
 Open Positions
 ==============
 
-* [Software Team Lead](/software team lead.md) - *Boston, MA* and *Washington, DC*
-* [Senior Software Engineer](/senior software engineer.md) - *Boston, MA* and *Washington, DC*
-* [Software Engineer](/software engineer.md) - *Boston, MA* and *Washington, DC*
-* [Software QA Engineer](/software qa engineer.md) - *Boston, MA*
-* [Software QA Analyst](/software qa analyst.md) - *Boston, MA*
+* [Software Engineer](/software engineer.md) - *Washington, DC*
 
 About Us
 ========
