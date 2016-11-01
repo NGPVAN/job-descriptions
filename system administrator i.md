@@ -4,7 +4,7 @@ Like most IT teams, we handle a mixture of break/fix and project work. This posi
 
 Candidates should have the ability to research, recommend, plan and deploy systems, solve problems independently, and work well on cross-functional teams.
 
-===Requirements===
+### Requirements
 
 End-user technical support experience
 
@@ -16,7 +16,7 @@ End-user technical support experience
 * Excellent written and oral communication skills
 * Ability to work on many projects at one time in a fast-paced environment
 
-===Desired but not Essential===
+### Desired but not Essential
 
 * Familiarity with political campaigns and issue advocacy organizations
 * Experience with: 
@@ -31,7 +31,7 @@ End-user technical support experience
  
 ***Note: This is a full-time position located in our Boston office. Candidates should be able to lift 50 lbs. Occasional off-hours (nights and weekends) work will be required.***
 
-===About Us===
+### About Us
 
 NGP VAN  is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and new media products available.
 
@@ -39,11 +39,11 @@ We built the voter contact and volunteer management tools used by Obama for Amer
 
 We are a successful and growing company with room for career advancement. NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.
 
-===Compensation===
+### Compensation
 
 The position offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive and open-minded workplace; we have a fun and relaxed company culture, including blowing off steam on a softball field, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
 
-===How to Apply===
+### How to Apply
 
 **Provide a resume, cover letter, along with salary requirements using the form on the right.**
 
