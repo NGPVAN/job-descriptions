@@ -16,6 +16,8 @@ We built the voter contact and volunteer management tools used by Obama for Amer
  
 NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.  We are a successful and growing company that cares about our employees’ career advancement. We are an open-minded, flexible workplace that values learning and contributions of many different kinds.
 
+*NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply.*
+
 About This Repository
 =====================
 
