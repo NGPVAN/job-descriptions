@@ -7,13 +7,15 @@ Open Positions
 About Us
 ========
 
-NGP VAN is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and digital products available.
- 
-We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the United States distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools that enable labor unions, environmental groups, pro-choice advocates, civil rights activists, and progressive political parties to win their campaigns around the world. Our fundraising and compliance software is used by the majority of Democrats from the Presidential level on down, and our fast-growing digital platform has become the most-used toolset for Democratic campaigns as well.
- 
-NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.  We are a successful and growing company that cares about our employees’ career advancement. We are an open-minded, flexible workplace that values learning and contributions of many different kinds.
+NGP VAN is a technology company where we do exciting and meaningful work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.
 
-*NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. Two of our founders are a gay couple. We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities. Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply.*
+Employees enjoy an unusually generous set of benefits, including 12 weeks paid parental leave, profit sharing, 100% premium-paid health/dental, and an ongoing education allowance.  NGP VAN is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for nine years in a row.
+
+Last year we were named one of the Coolest Companies of 2016 by DC Inno. We've also been named one of the top 50 fastest growing companies in the DC area by the Washington Business Journal and SmartCEO. The Wall Street Journal wrote “NGP VAN is something of a secret weapon for the Democratic Party and the labor unions and progressive groups that use it.” We have also won the AAPC award for Best Use of New Technology, and the Campaigns & Elections Award for Most Innovative Product.
+
+Join our team and work alongside about 200 smart, passionate, and innovative co-workers, many of whom are industry recognized as experts in their fields.
+
+*NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply.*
 
 About This Repository
 =====================
