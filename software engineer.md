@@ -10,7 +10,7 @@ Do you want to work on products that help make the world a better place?
 
 Do you like to ship early and often?
 
-If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with:  Angular, ASP.NET (MVC and Web Api, latest versions), Elasticsearch, Neo4j, and Node.
+If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with: ASP.NET, ReactJS, SQL at massive scale, Azure, Redis, ElasticSearch.
 
 Responsibilities
 ----------------
@@ -24,10 +24,9 @@ What we're looking for
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
 
-* Demonstrated contributions to the open source community (such as through an active GitHub account)
 * Working knowledge of web scalability problems and common solutions
-* Experience with C# and ASP.NET (bonus points for MVC 4+ and Web API)
-* Strong Javascript skills - Angular experience is great
+* Experience with C# and ASP.NET
+* Strong Javascript skills
 * Great communication skills
 
 About Us
@@ -47,6 +46,6 @@ The position offers competitive compensation and a strong benefits package. NGP 
 How to Apply
 ------------
 
-Send a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one, along with salary requirements, to jobs@ngpvan.com.  (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
+Send a resume, cover letter, and a link to your GitHub profile if you have one, along with salary requirements, to jobs@ngpvan.com.  (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
 
 _NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
