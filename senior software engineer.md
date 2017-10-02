@@ -10,7 +10,7 @@ Do you want to work on products that help make the world a better place?
 
 Do you like to ship early and often?
 
-If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with:  Angular, ASP.NET (MVC and Web Api, latest versions), Elasticsearch, Neo4j, and Node.
+If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with: ASP.NET (MVC and Web Api), ReactJS, SQL at massive scale, Azure, Redis, ElasticSearch. 
 
 Responsibilities
 ----------------
@@ -28,7 +28,7 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET (bonus points for MVC 4+ and Web API)
-* Strong Javascript skills - Angular experience is great
+* Strong Javascript skills - React or Angular experience is great
 * Great communication skills
 
 Actual minimum requirements
@@ -39,7 +39,7 @@ Senior can mean different things to different people, but for us it means you ha
 About Us
 --------
 
-NGP VAN (https://coderwall.com/team/ngp-van) is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and new media products available.
+NGP VAN is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and new media products available.
 
 We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the country distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools for labor unions, environmental groups, pro-choice advocates, civil rights activists, and international political parties across the world.  Our fundraising and compliance software is used by the vast majority of Democratic candidates from the Presidential level on down, and our fast-growing new media platform has recently become the most-used platform by Democratic campaigns as well.
 
