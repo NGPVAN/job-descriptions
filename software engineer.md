@@ -29,23 +29,22 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 * Strong Javascript skills
 * Great communication skills
 
-About Us
---------
+## About Us
 
-NGP VAN (https://coderwall.com/team/ngp-van) is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and new media products available.
+NGP VAN is a technology company whose team members do exciting and meaningful work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.
 
-We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the country distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools for labor unions, environmental groups, pro-choice advocates, civil rights activists, and international political parties across the world.  Our fundraising and compliance software is used by the vast majority of Democratic candidates from the Presidential level on down, and our fast-growing new media platform has recently become the most-used platform by Democratic campaigns as well.
+Employees enjoy an unusually generous set of benefits, including 12 weeks paid parental leave, profit sharing, 100% premium-paid health/dental, and an ongoing education allowance.  NGP VAN is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for nine years in a row.
 
-We are a successful and growing company with room for career advancement.  NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.  
+Last year we were named one of the Coolest Companies of 2016 by DC Inno. We've also been named one of the top 50 fastest growing companies in the DC area by the Washington Business Journal and SmartCEO. The Wall Street Journal wrote “NGP VAN is something of a secret weapon for the Democratic Party and the labor unions and progressive groups that use it.” We have also won the AAPC award for Best Use of New Technology, and the Campaigns & Elections Award for Most Innovative Product.
 
-Compensation
-------------
+Join our team and work alongside about 200 smart, passionate, and innovative co-workers, many of whom are industry recognized as experts in their fields.
 
-The position offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive and open-minded workplace; we have a fun and relaxed company culture, including blowing off steam on a softball field, drinking in the office on Fridays, enjoying periodic company retreats to warm places with beaches, and casual Friday every day. 
+## Compensation
 
-How to Apply
-------------
+The position offers competitive compensation and a strong benefits package. NGP VAN prides itself on being a progressive workplace; we have a fun and inclusive company culture, where we value teamwork, professional development, and work-life balance. We have your usual tech company perks whether you are a veteran or just getting started in your career, including relaxing (often) and winning (occasionally) on a softball field, happy hour in the office on Fridays, generous parental leave, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
 
-Send a resume, cover letter, and a link to your GitHub profile if you have one, along with salary requirements, to jobs@ngpvan.com.  (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
+## How to Apply
 
-_NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
+Submit a resume, cover letter, and a link to your GitHub profile if you have one, along with salary requirements through this site.
+
+_NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
