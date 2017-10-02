@@ -22,7 +22,7 @@ Responsibilities
 What we're looking for
 ----------------------
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
+You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET
