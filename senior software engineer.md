@@ -22,7 +22,6 @@ If so, this is your opportunity to work on industry-leading applications and use
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Demonstrated contributions to the open source community (such as through an active GitHub account)
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET (bonus points for MVC 4+ and Web API)
 * Strong JavaScript skills - React or Angular experience is great
@@ -48,6 +47,6 @@ The position offers competitive compensation and a strong benefits package. NGP 
 
 ## How to Apply
 
-Submit a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one, along with salary requirements through this site.
+Submit a resume, cover letter, and a link to your GitHub profile if you have one, along with salary requirements through this site.
 
 _NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
