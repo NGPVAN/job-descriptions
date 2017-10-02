@@ -20,7 +20,7 @@ If so, this is your opportunity to work on industry-leading applications and use
 
 ## What we're looking for
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you
+You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
 * Demonstrated contributions to the open source community (such as through an active GitHub account)
 * Working knowledge of web scalability problems and common solutions
