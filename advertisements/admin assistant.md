@@ -1,5 +1,7 @@
 # Administrative Assistant, Engineering Department
 
+*Somerville, MA*
+
 Are you passionate about helping progressives do more good in the world by providing them with the tools to make a greater impact? Do you care about technology? Are you interesting in helping grow a happy and productive team of software engineers, Product Managers and QA professionals? Are you an Excel wizard? Are you the best organized person you know? 
 
 If so, we’d love to talk to you about joining the Engineering team at NGPVAN / EveryAction – bringing nearly two decades of world class organizing, fundraising, advocacy, and engagement tools to our clients. 
