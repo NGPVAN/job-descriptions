@@ -10,7 +10,7 @@ If so, we’d love to talk to you about joining the Engineering team at NGPVAN /
 
 Think of it as a combination of admin assistant, business analyst, documentation specialist and project manager. We're looking for someone flexible, hard-working and who can learn quickly, to whom we will be able to give out more responsibilities over time. Examples include: 
 
-- Assist with our recruting and onboarding process 
+- Assist with our recruiting and onboarding process 
 - Keep internal documentation organized and up-to-date
 - Track questions and inquiries, and make sure the answers are documented
 - Organize and schedule team meetings and appointments, and ensure that decisions and to-do's are tracked
