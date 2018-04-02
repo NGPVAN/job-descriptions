@@ -40,6 +40,6 @@ Join our team and work alongside 200 smart, passionate, and innovative co-worker
 How to Apply
 ------------
 
-Fill out the form over there ->
+Fill out the application profile found here.
 
 _NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
