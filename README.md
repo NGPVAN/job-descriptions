@@ -1,8 +1,3 @@
-Open Positions
-==============
-
-* [Software Engineer](/software engineer.md) - *Washington, DC*
-
 About Us
 ========
 
