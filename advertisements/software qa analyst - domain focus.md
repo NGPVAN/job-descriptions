@@ -2,6 +2,8 @@ Software QA Analyst - Domain
 ====================
 *Somerville, MA* or *Washington, DC*
 
+Do you want to help take back the House and Senate in 2018 and beat Trump in 2020?  How about help progressive non-profits fight the good fight right now?
+
 We're looking for someone who has experience using our tools as a client to help us make them better for every other client as a QA Analyst in our Engineering department.  We're trying something a little different with this position - no prior QA experience is required.
 
 Responsibilities
@@ -9,6 +11,7 @@ Responsibilities
 
 * Write test plans and execute them for new features and applications
 * Learn to build and troubleshoot automated browser tests (we'll help train you)
+* Ensure that we're delivering a great, bug free user experience for our users
 
 Actual minimum requirements
 ---------------------------
