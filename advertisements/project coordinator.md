@@ -1,4 +1,4 @@
-# Administrative Assistant, Engineering Department
+# Project Coordinator, Engineering Department
 
 *Somerville, MA*
 
@@ -8,7 +8,7 @@ If so, we’d love to talk to you about joining the Engineering team at NGPVAN /
 
 ### Responsibilities
 
-Think of it as a combination of admin assistant, business analyst, documentation specialist and project manager. We're looking for someone flexible, hard-working and who can learn quickly, to whom we will be able to give out more responsibilities over time. Examples include: 
+Think of it as a combination of business analyst, documentation specialist and project manager. We're looking for someone flexible, hard-working and who can learn quickly, to whom we will be able to give out more responsibilities over time. Examples include: 
 
 - Assist with our recruiting and onboarding process 
 - Keep internal documentation organized and up-to-date
