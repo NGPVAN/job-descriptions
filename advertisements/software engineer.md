@@ -10,7 +10,7 @@ Do you want to work on products that help make the world a better place?
 
 Do you like to ship early and often?
 
-If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with: ASP.NET, ReactJS, SQL at massive scale, Azure, Redis, ElasticSearch.
+If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with: ASP.NET (Web Forms, MVC and Web Api), ReactJS, SQL at massive scale, Azure, Redis, ElasticSearch.
 
 Responsibilities
 ----------------
