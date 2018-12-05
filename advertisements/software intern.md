@@ -1,17 +1,50 @@
-# NGP VAN Development Internships (paid)
+# Software Engineering Intern
+*Boston, MA* or *Washington, DC*
 
-NGP VAN is the leading provider of technology to Democratic political campaigns, labor unions, and progressive nonprofits across the country. At NGP VAN, we want interns to get real world rapid application development experience in a team-oriented environment. To achieve that, our internship program is focused on recruiting a group of enthusiastic programmers to build key features for our products, see those through to release, and receive and respond to feedback from our broad base of users.
+Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
 
-Here are some example projects our past interns have worked on:
+Do you love to be working with cutting edge technology and tools?
 
-- Social Organizing - For too long, campaigns have focused on cutting lists of voters and randomly assigning volunteers the task of contacting them. Now that there is easy access to social graphs, we want to help campaigns use this new set of data. By leveraging existing relationships, we can ensure that every contact made by every volunteer is the most valuable contact they can make. To that end we've built out and continue to improve a new system with social aspects infused throughout, geared towards any volunteer with an Internet connection and a Facebook account.
+Do you want to work on products that help make the world a better place?
 
-- Turf Cutting - In the past, campaigns have created walk lists by printing out entire precincts and dividing up the lists by street. Our Turf Cutting tool lets staff or volunteers plot all their target voters on a map, visually divide them up into compact groups, and then provide those lists and maps to their volunteers. Last year's interns added efficient automatic clustering to the tool, and we are continually improving and expanding the functionality.
+Do you want to do all of those things while learning a lot and having a ton of fun over the summer?
 
-We enjoy tailoring summer projects to match the skills and interests of our interns, including opportunities to work on visualizations, analytic tools, and fast algorithms on the client or server side.
+If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it. Some things we work with: Angular, ASP.NET (MVC and Web Api, latest versions), Elasticsearch, React, and Node.
 
-Our internships are full time, for 10 weeks.  Pay is competitive, and depends on previous experience.
+If this listing looks a lot like our full-time software engineer job description, that's no accident. While we acknowledge they have less experience, we expect our interns to be shipping real code by the end of the summer.
 
-Our goal with this program is to find developers who share our passion for applying technology to progressive causes, for future permanent employment. We also appreciate fresh perspectives on how to approach the data problems of political campaigns and allied organizations. If you are interested please contact us at [jobs@ngpvan.com](mailto:jobs@ngpvan.com).
+## Responsibilities
+
+* Design good systems
+* Write good code
+* Ship working software
+* Learn about real-world software development
+
+## What we're looking for
+
+You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you:
+
+* Experience working with web applications
+* Experience with an object-oriented language
+* Javascript skills - React / Angular experience is great
+* Great communication skills
+
+## About Us
+
+NGP VAN (https://coderwall.com/team/ngp-van) is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and new media products available.
+
+We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the country distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools for labor unions, environmental groups, pro-choice advocates, civil rights activists, and international political parties across the world. Our fundraising and compliance software is used by the vast majority of Democratic candidates from the Presidential level on down, and our fast-growing new media platform has recently become the most-used platform by Democratic campaigns as well.
+
+We are a successful and growing company with room for career advancement. NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.
+
+## Compensation
+
+Our internships pay $22.50 per hour and last 10 weeks.
+
+NGP VAN prides itself on being a progressive and open-minded workplace; we have a fun and relaxed company culture, including blowing off steam on a softball field, drinking in the office on Fridays, enjoying periodic company retreats to warm places with beaches, and casual Friday every day.
+
+## How to Apply
+
+Send a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one to jobs@ngpvan.com. (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
 
 _NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
