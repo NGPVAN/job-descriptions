@@ -31,11 +31,13 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 
 ## About Us
 
-NGP VAN (https://coderwall.com/team/ngp-van) is the world’s leading political technology firm, providing campaign and organizing technology to Democrats, progressives, and non-partisan organizations. We offer an integrated platform that combines the best fundraising, compliance, organizing, and new media products available.
+NGP VAN is a technology company whose team members do exciting and meaningful work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.
 
-We built the voter contact and volunteer management tools used by Obama for America. Nearly every State Democratic Party in the country distributes our VoteBuilder tools to Democrats up and down the ticket, and we provide industry-leading organizing tools for labor unions, environmental groups, pro-choice advocates, civil rights activists, and international political parties across the world. Our fundraising and compliance software is used by the vast majority of Democratic candidates from the Presidential level on down, and our fast-growing new media platform has recently become the most-used platform by Democratic campaigns as well.
+Full-time employees enjoy an unusually generous set of benefits, including 12 weeks paid parental leave, profit sharing, 100% premium-paid health/dental, and an ongoing education allowance. NGP VAN is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for 10 years. Inc. Magazine also recognized us as one of the 50 Best Places to Work in 2016.
 
-We are a successful and growing company with room for career advancement. NGP VAN has been recognized as one of the fastest growing companies in America by Inc. Magazine for seven years in a row, and one of the top 50 fastest growing companies in the DC area by both the Washington Business Journal and SmartCEO.
+We were named one of the Coolest Companies of 2016 by DC Inno. We've also been named one of the top 50 fastest growing companies in the DC area by the Washington Business Journal and SmartCEO. The Wall Street Journal wrote “NGP VAN is something of a secret weapon for the Democratic Party and the labor unions and progressive groups that use it.” We have also won the AAPC award for Best Use of New Technology, and the Campaigns & Elections Award for Most Innovative Product.
+
+Join our team and work alongside more than 200 smart, passionate, and innovative co-workers, many of whom are industry recognized as experts in their fields.
 
 ## Compensation
 
