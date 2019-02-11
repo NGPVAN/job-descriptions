@@ -9,7 +9,7 @@ Do you want to work on products that help make the world a better place?
 
 Do you want to do all of those things while learning a lot and having a ton of fun over the summer?
 
-If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it. Some things we work with: Angular, ASP.NET (MVC and Web Api, latest versions), Elasticsearch, React, and Node.
+If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it. Some things we work with: React, C# ASP.NET, Elasticsearch, and Node.
 
 If this listing looks a lot like our full-time software engineer job description, that's no accident. While we acknowledge they have less experience, we expect our interns to be shipping real code by the end of the summer.
 
@@ -47,6 +47,6 @@ NGP VAN prides itself on being a progressive and open-minded workplace; we have 
 
 ## How to Apply
 
-Send a resume, cover letter, and a link to your GitHub/BitBucket profile if you have one to jobs@ngpvan.com. (All emails to that address are reviewed by engineering staff here - we just don't want to get our personal emails spammed.)
+Please apply through our careers page found [here](https://www.ngpvan.com/careers).
 
 _NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.  Two of our founders are a gay couple.  We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities.  Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply._
