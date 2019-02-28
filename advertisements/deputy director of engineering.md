@@ -26,7 +26,10 @@ Responsibilities
 Actual minimum requirements
 ---------------------------
 
-You need at least six months of software engineering management experience to be considered for this position, in addition to a bachelor's degree in computer science or a related field, or equivalent experience.  (If you don't qualify we are probably still hiring for your background in a different role!)
+* At least six months of software engineering management experience
+* A bachelor's degree in computer science or a related field, or equivalent experience
+
+(If you don't qualify we are probably still hiring for your background in a different role!)
 
 What we're looking for
 ----------------------
