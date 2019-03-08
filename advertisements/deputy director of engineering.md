@@ -16,6 +16,9 @@ Responsibilities
 ----------------
 
 * Work with Director of Engineering to ensure the effective operation of an office of 20+ software engineers
+* Manage the coordination and overall integration of technical activities in engineering projects
+* Direct, review, or approve project design changes
+* Confer with other departments to discuss project specifications or procedures
 * Help our engineers and less experienced managers grow professionally
 * Work extensively with our client services, data, and especially product team to make sure we are making the best decisions for the company (not just for the department)
 * Grow our organization through active recruiting of new talent
@@ -36,9 +39,9 @@ What we're looking for
 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
+* Experience with some or all of our tech stack - ASP.NET, React, and Microsoft SQL
 * Experience recruiting and hiring engineers
 * Experience managing more than one project team at a time
-* Experience with some or all of our tech stack - ASP.NET, React, and Microsoft SQL
 
 About Us
 --------
