@@ -2,6 +2,8 @@
 
 *Washington, DC* or *Somerville, MA*
 
+We're looking for our first Technical Project Coordinator - someone who can help us keep our non-client-facing projects...coordinated... and just generally make sure operations are silky smooth in our engineering, data, and IT departments.  Being a new position there is a lot of room for our first hire to help define and scale the role.
+
 ### Why you should work here
 
 - We help progressive people and organizations win elections and accomplish more good
