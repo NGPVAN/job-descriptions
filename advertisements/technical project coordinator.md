@@ -2,7 +2,7 @@
 
 *Washington, DC* or *Somerville, MA*
 
-We're looking for our first Technical Project Coordinator - someone who can help us keep our non-client-facing projects...coordinated... and just generally make sure operations are five by five in our engineering, data, and IT departments.  Being a new position, there is room for our first hire to help define and scale the role, but the general types of projects would be large technical ones with (we hope!) minimal visible user impact.  Things like migrations (major stack versions, between datacenters, to the cloud, from the cloud, between the clouds) and compliance/security work.  You know.  Easy stuff.  Your job here would be at least scheduling meetings, taking notes, and making jira issues.  It could grow to involve a bigger role in the decision-making process for prioritizating and executing these projects.
+We're looking for our first Technical Project Coordinator - someone who can help us keep our non-client-facing projects...coordinated... and just generally make sure operations are five by five in our engineering, data, and IT departments.  Being a new position, there is room for our first hire to help define and scale the role, but the general types of projects would be large technical ones with (we hope!) minimal visible user impact.  Things like migrations (major stack versions, between datacenters, to the cloud, from the cloud, between the clouds) and compliance/security work.  Your job here would be at least scheduling meetings, taking notes, and making jira issues.  It could grow to involve a bigger role in the decision-making process for prioritizating and executing these projects.
 
 ### Why you should work here
 
