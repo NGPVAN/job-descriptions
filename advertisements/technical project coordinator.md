@@ -26,7 +26,7 @@ We're looking for our first Technical Project Coordinator - someone who can help
 
 ### Bonus points for
 
-- Prior experience dealing with databases (SQL) or Business Intelligence (BI) tools
+- Prior experience dealing with databases, business intelligence, or scripting tools
 - Previous work experience in a technology company
 - Previous work experience in politics or non-profits
 
