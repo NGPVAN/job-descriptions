@@ -2,19 +2,20 @@
 
 *Washington, DC* or *Somerville, MA*
 
-We're looking for our first Technical Project Coordinator - someone who can help us keep our non-client-facing projects...coordinated... and just generally make sure operations are five by five in our engineering, data, and IT departments.  Being a new position there is a lot of room for our first hire to help define and scale the role.
+We're looking for our first Technical Project Coordinator - someone who can help us keep our non-client-facing projects...coordinated... and just generally make sure operations are five by five in our engineering, data, and IT departments.  Being a new position there is a lot of room for our first hire to help define and scale the role, but the general types of projects would be large technical ones with (we hope!) minimal visible user impact.  Things like migrations (major stack versions, between datacenters, to the cloud, from the cloud, between the clouds) and compliance/security work.  You know.  Easy stuff.  Your job here would be at least scheduling meetings, taking notes, and making jira issues.  It could grow to involve a bigger role in the decision-making process for prioritizating and executing these projects.
 
 ### Why you should work here
 
-- We help progressive people and organizations win elections and accomplish more good
-- We are a leader in the space - there is no better place to make your mark on progressive tech
-- We do our best to avoid hiring jerks (and we think you will be able to tell this from your interview on)
-- We ship code and our code gets used, a lot, usually right away
+- We help progressive people and organizations win elections and accomplish more good.
+- We are a leader in the space - there is no better place to make your mark on progressive tech.
+- We try to avoid hiring jerks.  We're not like a cult or anything - we just prefer a work environment where people treat each other with respect.
+- We ship code and our code gets used, a lot, usually right away.
 
 ### Responsibilities
 
 - Coordinate technical projects across multiple teams and departments
 - Keep internal documentation organized and up-to-date
+- Research and analyze existing project data
 - Assist with our recruiting and onboarding process 
 
 ### What we're looking for
@@ -27,6 +28,7 @@ We're looking for our first Technical Project Coordinator - someone who can help
 ### Bonus points for
 
 - Prior experience dealing with databases, business intelligence, or scripting tools
+- Prior experience with Jira and Confluence
 - Previous work experience in a technology company
 - Previous work experience in politics or non-profits
 
