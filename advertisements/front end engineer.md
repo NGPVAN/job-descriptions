@@ -2,7 +2,7 @@ Front End Engineer
 ==================
 *Somerville, MA*
 
-The Front-End Engineer is a member of the UI Engineering team.  A team that works across the entire product suite to unify and modernize our enterprise-level CRM platform by building and supporting our UI framework, ProgressUI, as well as assisting engineering teams with web design. This person works with product managers, product designers, and engineers to build and improve the front-end experience of our products and evangelizes best practices around quality, performance, and stability of front-end code. An ideal candidate has a strong background in web design (HTML & CSS), a good grasp of JavaScript and front-end frameworks as well as a willingness to do occasional dive into back-end code. This position reports to the Lead Front-end Engineer.
+The Front-End Engineer is a member of the UI Engineering team. That team works across the entire product suite to unify and modernize our enterprise-level CRM platform by building and supporting our UI framework, ProgressUI, as well as assisting engineering teams with web design. This person works with product managers, product designers, and engineers to build and improve the front-end experience of our products and evangelizes best practices around quality, performance, and stability of front-end code. An ideal candidate has a strong background in web design (HTML & CSS), a good grasp of JavaScript and front-end frameworks, and isn't terrified of digging into the back end code to find out how to make the front end better.
 
 Responsibilities
 ----------------
