@@ -5,32 +5,26 @@ DevOps Engineer
 Responsibilities
 ----------------
 
-We’re seeking a self-driven DevOps Administrator who will plan, implement, and maintain deployment solutions.  With a focus on working with high level engineers and IT staff, candidates will provide a seamless integration point for Development and Information Technology.  Candidates should have the ability to recommend and rapidly deploy solution-based systems, automate manual processes, and work well on cross-functional teams.
+The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, to the extent allowed by Descartes and Heisenberg.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves a fair bit of research to understand the engineering problems and find good technical solutions, as well as plenty of scripting in Powershell.
 
 What we're looking for
 ----------------------
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Experience with Linux distributions and maintenance
-* Experience with scripting languages (Bash, PowerShell, etc.)
+* Experience with scripting languages (Especially Powershell)
 * Experience with and understanding of networking, DNS, load-balancing, and clustering technologies
 * Experience with continuous integration/continuous deployment (TeamCity)
 * Understanding of security best practices
 * Excellent written and verbal communication skills
-* Ability to focus and prioritize in a fast-paced environment 
-* Ability to manage solutions from requirements to implementation
-* Ability to quickly triage problems under pressure, determine root cause, and resolve issues
-
-Nice to have
-------------
-
 * Experience with VMWare virtualization products
-* Experience with cloud services (AWS, Heroku, Azure, etc.)
-* Experience with configuration management tools (Ansible/Chef/Puppet, PowerShell DSC) 
-* Familiarity with server monitoring tools (Nagios, New Relic, AppFirst, etc.)
-* Familiarity with Apache, MySQL, and Varnish administration
-* Experience with Drupal maintenance and site lifecycle management (Aegir experience a plus)
+* Experience with cloud services (Especially Azure)
+* Experience with configuration management tools (Especially PowerShell DSC) 
+
+Actual minimum requirements
+---------------------------
+
+Candidates without at least one year experience with programming or systems administration will not be considered.
 
 About Us
 --------
