@@ -5,7 +5,7 @@ DevOps Engineer
 Responsibilities
 ----------------
 
-The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, to the extent allowed by Descartes and Heisenberg.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves a fair bit of research to understand the engineering problems and find good technical solutions, as well as plenty of scripting in Powershell.
+The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, to the extent allowed by Descartes and Heisenberg.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves a fair bit of research to understand the engineering problems and find good technical solutions, as well as plenty of scripting in Powershell. It also involves being aggressively empathetic to other departments and their concerns while maintaining the systems making them more efficient and reliable.
 
 What we're looking for
 ----------------------
@@ -14,12 +14,12 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 
 * Experience with scripting languages (Especially Powershell)
 * Experience with and understanding of networking, DNS, load-balancing, and clustering technologies
-* Experience with continuous integration/continuous deployment (TeamCity)
+* Experience with continuous integration/continuous deployment (Especially TeamCity)
 * Understanding of security best practices
 * Excellent written and verbal communication skills
 * Experience with VMWare virtualization products
 * Experience with cloud services (Especially Azure)
-* Experience with configuration management tools (Especially PowerShell DSC) 
+* Experience with configuration management tools (Especially PowerShell DSC)
 
 Actual minimum requirements
 ---------------------------
