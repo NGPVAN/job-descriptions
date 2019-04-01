@@ -5,7 +5,7 @@ DevOps Engineer
 Responsibilities
 ----------------
 
-The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, to the extent allowed by Descartes and Heisenberg.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves a fair bit of research to understand the engineering problems and find good technical solutions, as well as plenty of scripting in Powershell. It also involves being aggressively empathetic to other departments while maintaining the systems making them more efficient and reliable.
+The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, other than the stuff that our product and engineering teams are already doing.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves a fair bit of research to understand the engineering problems and find good technical solutions, as well as plenty of scripting in Powershell. It also involves being aggressively empathetic to other departments while maintaining the systems making them more efficient and reliable.  We want get our work done but also build a culture where everyone is competent to unblock themselves, and feels empowered to do it.
 
 What we're looking for
 ----------------------
