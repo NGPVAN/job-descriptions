@@ -5,26 +5,24 @@ DevOps Engineer
 Responsibilities
 ----------------
 
-The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, other than the stuff that our product and engineering teams are already doing.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves empathy to understand the engineering problems and research to find good technical solutions.  Those solutions will often involve some amount of Powershell, either as the primary implementation or as glue for other functionality.  Beyond just individual contributions, we are trying to build a culture where everyone is competent to unblock themselves, and feels empowered to do it.  We'd love your help!
+The goal of our DevOps team is to automate all the work that goes into turning an idea into a production feature, other than the stuff that our product and engineering teams are already doing.  It turns out that we do a lot of things that would be faster, cheaper, and safer if automated, and we'd like to hire someone to help us make even more progress on them.  The job itself involves empathy to understand the engineering problems and research to find good technical solutions to those problems.  Those solutions will often involve some amount of Powershell, either as the primary implementation or as glue for other functionality.  Beyond just individual contributions, we are trying to build a culture where everyone is competent to unblock themselves, and feels empowered to do it.  We'd love your help!
+
+Actual minimum requirements
+---------------------------
+
+Candidates without at least one year experience with programming or systems administration will not be considered.  We are open to hiring software engineers or sysadmins without prior DevOps experience, though!
 
 What we're looking for
 ----------------------
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
-* Experience with scripting languages (Especially Powershell)
-* Experience with and understanding of networking, DNS, load-balancing, and clustering technologies
-* Experience with continuous integration/continuous deployment (Especially TeamCity)
-* Understanding of security best practices
 * Excellent written and verbal communication skills
-* Experience with VMWare virtualization products
-* Experience with cloud services (Especially Azure)
+* Experience with scripting languages (Especially Powershell)
 * Experience with configuration management tools (Especially PowerShell DSC)
-
-Actual minimum requirements
----------------------------
-
-Candidates without at least one year experience with programming or systems administration will not be considered.
+* Experience with continuous integration/continuous deployment (Especially TeamCity)
+* Experience with cloud services (Especially Azure)
+* Experience with and understanding of networking, DNS, load-balancing, and clustering technologies
 
 Compensation and benefits
 -------------------------
