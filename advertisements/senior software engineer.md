@@ -23,8 +23,8 @@ If so, this is your opportunity to work on industry-leading applications and use
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
 * Working knowledge of web scalability problems and common solutions
-* Experience with C# and ASP.NET (bonus points for MVC 4+ and Web API)
-* Strong JavaScript skills - React or Angular experience is great
+* Experience with C# and ASP.NET
+* Strong JavaScript skills - React experience especially is awesome
 * Great communication skills
 
 ## Actual minimum requirements
