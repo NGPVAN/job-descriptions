@@ -1,4 +1,4 @@
-EveryAction - DC, Boston/Somerville, and Remote
+EveryAction - DC, Boston/Somerville, New York, Ithica and Remote
 
 We are hiring for several engineering and engineering-adjacent positions:
 
