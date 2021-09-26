@@ -4,7 +4,7 @@
 
 ## Why EveryAction?
 
-EveryAction is the fastest-growing and second-largest nonprofit software company, providing SaaS tools built around a unified CRM that empower our clients to be more effective and do more good.  We do exciting and important work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.  We've worked closely with every major Democratic Presidential campaign since Obama 2008, and our non-profit client list includes groups making a huge difference in the world; organizations like Audubon, Covenant House, Feeding America, NAACP, and Special Olympics.
+EveryAction is the fastest-growing and second-largest nonprofit software company, providing SaaS tools built around a unified CRM that empower our clients to be more effective and do more good.  We do exciting and important work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.  We've worked closely with every major Democratic Presidential campaign since Obama 2008, and our non-profit clients includes organizations like Audubon, Covenant House, Feeding America, NAACP, and Special Olympics.
 
 We do our best to hire people who are smart, dedicated, and not too full of themselves.  We value work-life balance and our benefits package demonstrates that: 5 weeks of paid time off, 12 weeks of paid parental leave, 100% premium-paid health/dental/vision, employer retirement contributions, and an ongoing education allowance.  #puppy-club is our 9th most popular slack channel (while the objectively superior #cat-club is only 15th.)
 
