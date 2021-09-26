@@ -21,10 +21,6 @@ Specifically, a team lead's week to week responsibilities include:
 * Managing team members to improve/maintain high performance and morale
 * Identifying external obstacles to project success and overcoming them
 
-##  Minimum Requirements For Resume Consideration
-
-You need at least two years of software engineering experience to be considered for this job.  (We don't make exceptions to our minimum requirements for external candidates, and instead try to set them low enough to include all potentially qualified candidates.)
-
 ## Our Stack
 
 * ASP.NET 4.5+ C#
@@ -35,6 +31,10 @@ You need at least two years of software engineering experience to be considered 
 * Microsoft SQL
   * Server 2017 + Azure SQL
 * Hybrid Cloud
+
+##  Minimum Requirements For Resume Consideration
+
+You need at least two years of software engineering experience to be considered for this job.  (We don't make exceptions to our minimum requirements for external candidates, and instead try to set them low enough to include all potentially qualified candidates.)
 
 ## Useful Skills
 
