@@ -2,9 +2,15 @@
 
 *Somerville, MA* or *Washington, DC*
 
+## Why EveryAction?
+
+EveryAction is a technology company whose team members do exciting and important work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.  We've worked closely with every major Democratic Presidential campaign since Obama 2008, and our non-profit client list includes groups making a huge difference in the world; organizations like Audubon, Covenant House, Feeding America, NAACP, and Special Olympics.
+
+We do our best to hire people who are smart, dedicated, and not too full of themselves.  We value work life balance and our benefits package demonstrates that: 5 weeks of paid time off, 12 weeks of paid parental leave, 100% premium-paid health/dental/vision, employer retirement contributions, and an ongoing education allowance.  #puppy-club is our 9th most popular slack channel (while the objectively superior #cat-club is only 15th.)
+
 ## Job Description
 
-At EveryAction, as Software Team Lead you would be the manager and probably the tech lead of one of our Scrum development teams.  Each team is  made up of 2-3 other Software Engineers of varying seniority, as well as one QA Analyst or QA Engineer dedicated to the team's projects.  We try to colocate teams as much as possible, though as of the time of this writing Covid is making that irrelevant. 
+At EveryAction, as Software Team Lead you would be the manager and tech lead of one of our Scrum development teams.  Each team is  made up of 2-3 other Software Engineers of varying seniority, as well as one QA Analyst or QA Engineer dedicated to the team's projects.  We try to colocate teams as much as possible, though as of the time of this writing Covid is making that irrelevant. 
 
 When bringing on a Software Team Lead from outside the company, we prefer they spend the first 3 or so months as a member of an existing team in order to learn the stack and domain.
 
@@ -37,12 +43,6 @@ We don't require that you have experience with all of this to begin with, but it
 * Working knowledge of web scalability problems and patterns
 * Experience with some or all of our tech stack
 * Experience managing software engineers
-
-## About Us
-
-EveryAction is a technology company whose team members do exciting and important work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.
-
-EveryAction is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for 12 years. We were named one of the Coolest Companies of 2016 by DC Inno. We've also been named one of the top 50 fastest growing companies in the DC area by the Washington Business Journal and SmartCEO. Employees enjoy an unusually generous set of benefits, including 5 weeks of paid time off, 12 weeks of paid parental leave, 100% premium-paid health/dental/vision, employer retirement contributions, and an ongoing education allowance. Join our team and work alongside 350 smart, passionate, and innovative co-workers, many of whom are industry-recognized as experts in their fields.
 
 ## How to Apply
 
