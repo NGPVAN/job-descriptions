@@ -2,37 +2,40 @@
 
 *Somerville, MA* or *Washington, DC*
 
-Do you have a passion for creating modern and compelling applications with simple, readable and maintainable code?
+## Job Description
 
-Do you want to build products that help make the world a better place?
+At EveryAction, as Software Team Lead you would be the manager and probably the tech lead of one of our Scrum development teams.  Each team is  made up of 2-3 other Software Engineers of varying seniority, as well as one QA Analyst or QA Engineer dedicated to the team's projects.  We try to colocate teams as much as possible, though as of the time of this writing Covid is making that irrelevant. 
 
-Do you like to ship early and often?
+When bringing on a Software Team Lead from outside the company, we prefer they spend the first 3 or so months as a member of an existing team in order to learn the stack and domain.
 
-Would you enjoy working with a diverse, talented, and passionate team to make sure products are great and clients are successful?
+Specifically, a team lead's week to week responsibilities include:
 
-Do you love working with the latest technology and tools?
+* Working with team's Product Manager to estimate and refine future work
+* Contributing to the development of active team projects
+* Managing team members to improve/maintain high performance and morale
+* Identifying external obstacles to project success and overcoming them
 
-Do you take pleasure in helping other engineers improve their craft?
+##  Minimum Requirements For Resume Consideration
 
-If so, this is your opportunity to work on industry-leading applications and use the latest web technology (ASP.NET Web API, Angular.js, etc.), in a position where your work can make a difference in millions of lives.
+You need at least two years of software engineering experience to be considered for this job.  (We don't make exceptions to our minimum requirements for external candidates, and instead try to set them low enough to include all potentially qualified candidates.)
 
-## Responsibilities
+## Our Stack
 
-* Manage and mentor a Scrum team of software and quality engineers
-* Work with team to architect and build products and features
-* Ensure quality in all its glorious dimensions
-* Make sure we are continuously improving
+* ASP.NET 4.5+ C#
+  * Webforms / MVC
+  * Some legacy VB.NET
+* React
+  * Some legacy Angular 1/2
+* Microsoft SQL
+  * Server 2017 + Azure SQL
+* Hybrid Cloud
 
-## Actual Minimum Requirements
-
-You need at least two years of software engineering experience to be considered for this job, but we are probably hiring for some entry-level Software Engineering positions, too.
-
-## What We're Looking For
+## Useful Skills
 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
 * Working knowledge of web scalability problems and patterns
-* Experience with some or all of our tech stack - ASP.NET, Angular, and Microsoft SQL
+* Experience with some or all of our tech stack
 * Experience managing software engineers
 
 ## About Us
