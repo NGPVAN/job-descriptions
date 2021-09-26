@@ -1,4 +1,5 @@
 # Senior Software Engineer
+
 *Boston, MA* or *Washington, DC*
 
 Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
@@ -18,7 +19,7 @@ If so, this is your opportunity to work on industry-leading applications and use
 * Help less senior engineers become more awesome
 * Ship good products (often)
 
-## What we're looking for
+## What We're Looking For
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
@@ -27,7 +28,7 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 * Strong JavaScript skills - React experience especially is awesome
 * Great communication skills
 
-## Actual minimum requirements
+## Actual Minimum Requirements
 
 Senior can mean different things to different people, but for us it means you have a minimum of 5 years of engineering experience and at least 2 with the primary technologies we are using.
 

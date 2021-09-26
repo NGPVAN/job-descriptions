@@ -1,5 +1,5 @@
-Software Engineer
-=================
+# Software Engineer
+
 *Boston, MA* or *Washington, DC*
 
 Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
@@ -12,15 +12,13 @@ Do you like to ship early and often?
 
 If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with: ASP.NET (Web Forms, MVC and Web Api), ReactJS, SQL at massive scale, Azure, Redis, ElasticSearch.
 
-Responsibilities
-----------------
+## Responsibilities
 
 * Design good systems
 * Write good code
 * Ship good products (often)
 
-What we're looking for
-----------------------
+## What We're Looking For
 
 You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
 
