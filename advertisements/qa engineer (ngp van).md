@@ -1,6 +1,4 @@
-# QA Analyst
-
-*Boston, MA* or *Washington, DC*
+# QA Engineer
 
 NGP VAN is the leading technology provider to Democratic and progressive campaigns and organizations, as well as nonprofits, municipalities, and other groups, offering clients an integrated platform of the best fundraising, compliance, field, organizing, digital, and social networking products.
 
@@ -10,26 +8,23 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 
 ## Responsibilities
 
-* Design test plans for the application that could be used for manual or automated testing
-* Execute test plans and document test execution records
-* Maintain, improve and review existing test plans created by other QA members
-* Work closely with scrum team to identify test cases, edge cases and regression items
-* Identify and troubleshoot bugs while providing reports with clear steps to recreate issues
-* Provide ad-hoc testing to help identity root causes of the issues
-* Provide triage support for periodic Automation test failures
-* Ensure that we're delivering a great, bug free user experience for our users
+* Write test plans and execute them for new features and applications
+* Build automated functional and regression tests for our enterprise web application
+* Expand and maintain our testing infrastructure
 
 ## Actual Minimum Requirements
 
-This is an entry-level position, though we do value (and will pay for) previous QA experience.
+You need to have some experience programming to be considered for this position.  (But we may be hiring QA analysts!)
 
 ## What We're Looking For
 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
-* Prior experience providing quality assurance for software
-* Experience with QA tools (we use Testrail)
-* Any familiarity with programming or databases
+* Familiarity with C# - this is a programming position
+* Familiarity with version control systems - preferably git
+* Experience with Selenium WebDriver framework
+* Knowledge of front end web technologies such as JavaScript, CSS, and HTML
+* Proficiency in Black, Grey, and White Box testing
 
 ## About Us
 
