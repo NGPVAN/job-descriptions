@@ -25,11 +25,11 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 
 ## About Us
 
-# Our Culture
+### Our Culture
 
 Our team is made up of industry experts and advocates who are 100% committed to supporting the doers of social good.
 
-# Some of our comprehensive and competitive benefits include 
+### Some of our comprehensive and competitive benefits include 
 
 * Generous PTO policy
 * Equity for ALL regular, full-time employees from individual contributors to management – share in our success!
