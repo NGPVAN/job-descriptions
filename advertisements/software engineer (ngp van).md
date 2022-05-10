@@ -14,6 +14,10 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 * Write good code
 * Ship good products (often)
 
+## Actual Minimum Requirements
+
+This is an entry-level position, though we do value (and will pay for) previous engineering experience.
+
 ## What We're Looking For
 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
