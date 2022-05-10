@@ -15,18 +15,16 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 * Help less senior engineers become more effective
 * Ship good products (often)
 
-## What We're Looking For
+## Actual Minimum Requirements
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
+Senior can mean different things to different people, but for us it means you have a minimum of 5 years of engineering experience and at least 2 with the primary technologies we are using.
+
+## What We're Looking For
 
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET
 * Strong JavaScript skills - React experience especially is awesome
 * Great communication skills
-
-## Actual Minimum Requirements
-
-Senior can mean different things to different people, but for us it means you have a minimum of 5 years of engineering experience and at least 2 with the primary technologies we are using.
 
 ## About Us
 
