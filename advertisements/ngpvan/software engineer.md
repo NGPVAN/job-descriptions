@@ -14,7 +14,7 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 
 ## Actual Minimum Requirements
 
-This is an entry-level position, though we do value (and will pay for) previous engineering experience.
+This is an entry-level position, though we do value previous engineering experience.
 
 ## What We're Looking For
 
