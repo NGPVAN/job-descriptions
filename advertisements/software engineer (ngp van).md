@@ -2,15 +2,11 @@
 
 *Boston, MA* or *Washington, DC*
 
-Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
+NGP VAN is the leading technology provider to Democratic and progressive campaigns and organizations, as well as nonprofits, municipalities, and other groups, offering clients an integrated platform of the best fundraising, compliance, field, organizing, digital, and social networking products.
 
-Do you love to be working with cutting edge technology and tools?
+Trusted by campaigns of every size, NGP VAN's award-winning tools have elected thousands of Democrats to local, state, and federal office. Nearly every Democrat running for office is powered by NGP VAN. There's a friendly, relaxed atmosphere at NGP VAN that makes work fun. Fueled by our love of important causes + game-changing technology, our team is made up of smart, passionate people who truly care. 
 
-Do you want to work on products that help make the world a better place?
-
-Do you like to ship early and often?
-
-If so, this is your opportunity to work on industry-leading applications and use the latest web technology while doing it.  Some things we work with: ASP.NET (Web Forms, MVC and Web Api), ReactJS, SQL at massive scale, Azure, Redis, ElasticSearch.
+Join us as a Software Engineer for an opportunity to work on industry-leading applications and use the latest web technology while doing it. Some things we work with: ASP.NET (Web Forms, MVC and Web Api), ReactJS, SQL at massive scale, Azure, Redis, and ElasticSearch.
 
 ## Responsibilities
 
@@ -29,12 +25,20 @@ You don't have to fit all of these bullets, but if you don't fit any of them thi
 
 ## About Us
 
-EveryAction is a technology company whose team members do exciting and important work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.
+# Our Culture
 
-EveryAction is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for 12 years. We were named one of the Coolest Companies of 2016 by DC Inno. We've also been named one of the top 50 fastest growing companies in the DC area by the Washington Business Journal and SmartCEO. Employees enjoy an unusually generous set of benefits, including 5 weeks of paid time off, 12 weeks of paid parental leave, 100% premium-paid health/dental/vision, employer retirement contributions, and an ongoing education allowance. Join our team and work alongside 350 smart, passionate, and innovative co-workers, many of whom are industry-recognized as experts in their fields.
+Our team is made up of industry experts and advocates who are 100% committed to supporting the doers of social good.
+
+# Some of our comprehensive and competitive benefits include 
+
+* Generous PTO policy
+* Equity for ALL regular, full-time employees from individual contributors to management – share in our success!
+* Up to 15 paid company holidays including some commemorating social justice events and self-care
+* Paid parental leave
+* Health, vision, dental, and life insurance with additional access to health and wellness programs.
 
 ## How to Apply
 
 Fill out the application profile found here.
 
-*EveryAction believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply. We’re committed to hiring people on the basis of qualifications, merit and business need, and EveryAction is proud to be an equal opportunity employer.*
+*NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply. We’re committed to hiring people on the basis of qualifications, merit and business need, and EveryAction is proud to be an equal opportunity employer.*
