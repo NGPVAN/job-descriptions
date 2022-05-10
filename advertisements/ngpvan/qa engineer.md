@@ -8,9 +8,13 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 
 ## Responsibilities
 
-* Write test plans and execute them for new features and applications
+* Design test plans for the application that could be used for manual or automated testing
+* Execute test plans and document test execution records
 * Build automated functional and regression tests for our enterprise web application
 * Expand and maintain our testing infrastructure
+* Work closely with scrum team to identify test cases, edge cases and regression items
+* Identify and troubleshoot bugs while providing reports with clear steps to recreate issues
+* Ensure that we're delivering a great, bug-free user experience for our users
 
 ## Actual Minimum Requirements
 
