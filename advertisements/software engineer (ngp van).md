@@ -16,7 +16,7 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 
 ## What We're Looking For
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
+We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET
