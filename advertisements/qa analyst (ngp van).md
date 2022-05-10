@@ -1,4 +1,4 @@
-# Software Engineer
+# QA Analyst
 
 *Boston, MA* or *Washington, DC*
 
@@ -10,18 +10,26 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 
 ## Responsibilities
 
-* Design good systems
-* Write good code
-* Ship good products (often)
+* Design test plans for the application that could be used for manual or automated testing
+* Execute test plans and document test execution records
+* Maintain, improve and review existing test plans created by other QA members
+* Work closely with scrum team to identify test cases, edge cases and regression items
+* Identify and troubleshoot bugs while providing reports with clear steps to recreate issues
+* Provide ad-hoc testing to help identity root causes of the issues
+* Provide triage support for periodic Automation test failures
+* Ensure that we're delivering a great, bug free user experience for our users
+
+## Actual Minimum Requirements
+
+This is an entry-level position, though we do value (and will pay for) previous QA experience.
 
 ## What We're Looking For
 
-You don't have to fit all of these bullets, but if you don't fit any of them this is probably not the right job for you.
+We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
-* Working knowledge of web scalability problems and common solutions
-* Experience with C# and ASP.NET
-* Strong Javascript skills
-* Great communication skills
+* Prior experience providing quality assurance for software
+* Experience with QA tools (we use Testrail)
+* Any familiarity with programming or databases
 
 ## About Us
 
