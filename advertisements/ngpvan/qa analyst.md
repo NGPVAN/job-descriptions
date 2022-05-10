@@ -14,7 +14,6 @@ Join us as a Software Engineer for an opportunity to work on industry-leading ap
 * Work closely with scrum team to identify test cases, edge cases and regression items
 * Identify and troubleshoot bugs while providing reports with clear steps to recreate issues
 * Provide ad-hoc testing to help identity root causes of the issues
-* Provide triage support for periodic Automation test failures
 * Ensure that we're delivering a great, bug-free user experience for our users
 
 ## Actual Minimum Requirements
