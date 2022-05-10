@@ -22,7 +22,7 @@ We don't require that you have experience with all of this to begin with, but it
 
 * Working knowledge of web scalability problems and common solutions
 * Experience with C# and ASP.NET
-* Strong Javascript skills
+* Strong JavaScript skills
 * Great communication skills
 
 ## About Us
