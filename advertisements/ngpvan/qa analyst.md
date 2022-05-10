@@ -26,7 +26,7 @@ This is an entry-level position, though we do value (and will pay for) previous 
 We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
 
 * Prior experience providing quality assurance for software
-* Experience with QA tools (we use Testrail)
+* Experience with QA tools (we use TestRail)
 * Any familiarity with programming or databases
 
 ## About Us
