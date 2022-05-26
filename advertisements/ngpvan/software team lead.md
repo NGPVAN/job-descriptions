@@ -22,8 +22,6 @@ Specifically, a team lead's week to week responsibilities include:
 ## Our Stack
 
 * ASP.NET 4.5+ C#
-  * Webforms / MVC
-  * Some legacy VB.NET
 * React
   * Some legacy Angular/Angularjs
 * Microsoft SQL
