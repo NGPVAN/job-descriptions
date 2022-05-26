@@ -34,13 +34,14 @@ Specifically, a team lead's week to week responsibilities include:
 
 You need at least two years of software engineering experience to be considered for this job.  (We don't make exceptions to our minimum requirements for external candidates, and instead try to set them low enough to include all potentially qualified candidates.)
 
-## Useful Skills
+## Useful Skills and Experience
 
-We don't require that you have experience with all of this to begin with, but it is directly relevant to the role.
+Experience with any of the following is likely to be useful to the job, though not a requirement for consideration:
 
-* Working knowledge of web scalability problems and patterns
-* Experience with some or all of our tech stack
-* Experience managing software engineers
+* Managing software engineers
+* Some or all of our tech stack
+* Web scalability problems and patterns
+* Payment processing / ecommerce
 
 ## About Us
 
