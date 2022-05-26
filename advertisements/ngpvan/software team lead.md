@@ -4,7 +4,7 @@ NGP VAN is the leading technology provider to Democratic and progressive campaig
 
 Trusted by campaigns of every size, NGP VAN's award-winning tools have elected thousands of Democrats to local, state, and federal office. Nearly every Democrat running for office is powered by NGP VAN. There's a friendly, relaxed atmosphere at NGP VAN that makes work fun. Fueled by our love of important causes + game-changing technology, our team is made up of smart, passionate people who truly care. 
 
-Join us for an opportunity to work on industry-leading applications and use the latest web technology while doing it. Some things we work with: ASP.NET (Web Forms, MVC and Web Api), ReactJS, SQL at massive scale, Azure, Redis, and ElasticSearch.
+Join us for an opportunity to work on industry-leading applications and use the latest web technology while doing it. Some things we work with: ASP.NET, ReactJS, SQL at massive scale, Azure, Redis, and ElasticSearch.
 
 ## Job Description
 
