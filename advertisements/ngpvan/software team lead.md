@@ -30,7 +30,7 @@ Specifically, a team lead's week to week responsibilities include:
 
 ##  Minimum Requirements For Resume Consideration
 
-You need at least two years of software engineering experience to be considered for this job.  (We don't make exceptions to our minimum requirements for external candidates, and instead try to set them low enough to include all potentially qualified candidates.)
+You need at least two years of software engineering experience to be considered for this job.  (We don't make exceptions to our minimum requirements for external candidates, and instead try to set them low enough to include all potentially qualified applicants.)
 
 ## Useful Skills and Experience
 
