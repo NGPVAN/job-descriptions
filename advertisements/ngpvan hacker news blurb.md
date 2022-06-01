@@ -1,6 +1,6 @@
-NGP VAN | REMOTE ONSITE
+NGP VAN | REMOTE
 
-We are hiring for several engineering and engineering-adjacent positions.  Here's a point-in-time list, but you can get a more accurate accounting from our careers page at https://www.bonterratech.com/.
+We are hiring for several engineering and engineering-adjacent positions.  Here's a point-in-time list, but you can get a more accurate accounting from our careers page at https://www.ngpvan.com/careers/.
 
 
 - Software Team Lead - Boston/Somerville - C#/React/MSSQL - https://ngpvan.applytojob.com/apply/VKqDeWELMi/Software-Team-Lead
