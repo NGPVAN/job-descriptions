@@ -20,14 +20,13 @@ Some of our comprehensive and competitive benefits include:
 
 - Generous PTO policy
 
-- Up to 15 paid company holidays including some commemorating social justice events and self-care
+- 15 paid company holidays
 
 - Paid volunteer time
 
 - Paid parental leave
 
-- Health, vision, dental, and life insurance with additional access to health and wellness programs
+- Health, vision, dental, and life insurance
 
 
-
-*NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply. We’re committed to hiring people on the basis of qualifications, merit and business need, and Bonterra is proud to be an equal opportunity employer.*
+*NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients.*
