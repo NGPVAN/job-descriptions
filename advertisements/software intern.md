@@ -4,8 +4,6 @@
 
 Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
 
-Do you love to be working with cutting edge technology and tools?
-
 Do you want to work on products that help make the world a better place?
 
 Do you want to do all of those things while learning a lot and having a ton of fun over the summer?
