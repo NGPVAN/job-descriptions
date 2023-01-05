@@ -1,6 +1,6 @@
 # Software Engineering Intern
 
-*Boston, MA*, or *Washington, DC*, or *Remote, US*
+*Boston, MA*, *Washington, DC*, or *Remote, US*
 
 Do you have a passion for creating modern and compelling applications with simple, readable and elegant code?
 
