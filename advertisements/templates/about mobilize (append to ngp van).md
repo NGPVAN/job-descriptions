@@ -1,0 +1,3 @@
+Mobilize is the volunteer recruitment and events management platform that connects mission-driven organizations and their supporters. 
+
+The Mobilize platform has helped 3,000 advocacy organizations, nonprofits, unions, and political campaigns like Planned Parenthood Action Fund, the Human Rights Campaign, AARP, and the Biden/Harris campaign sign up more than 4 million supporters for over 15 million actions.

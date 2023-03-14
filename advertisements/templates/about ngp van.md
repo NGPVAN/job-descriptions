@@ -1,0 +1,3 @@
+NGP VAN is the leading technology provider to Democratic and progressive campaigns and organizations, as well as nonprofits, municipalities, and other groups, offering clients an integrated platform of the best fundraising, compliance, field, organizing, digital, and social networking products.
+
+Trusted by campaigns of every size, NGP VAN's award-winning tools have elected thousands of Democrats to local, state, and federal office. Nearly every Democrat running for office is powered by NGP VAN. There's a friendly, relaxed atmosphere at NGP VAN that makes work fun. Fueled by our love of important causes + game-changing technology, our team is made up of smart, passionate people who truly care.
