@@ -2,9 +2,9 @@ NGP VAN is the leading technology provider to Democratic and progressive campaig
 
 Trusted by campaigns of every size, NGP VAN's award-winning tools have elected thousands of Democrats to local, state, and federal office. Nearly every Democrat running for office is powered by NGP VAN. There's a friendly, relaxed atmosphere at NGP VAN that makes work fun. Fueled by our love of important causes + game-changing technology, our team is made up of smart, passionate people who truly care.
 
-Mobilize is the volunteer recruitment and events management platform that connects mission-driven organizations and their supporters. 
+Mobilize is our volunteer recruitment and events management platform that connects mission-driven organizations and their supporters. 
 
-The Mobilize platform has helped 3,000 advocacy organizations, nonprofits, unions, and political campaigns like Planned Parenthood Action Fund, the Human Rights Campaign, AARP, and the Biden/Harris campaign sign up more than 4 million supporters for over 15 million actions.
+The Mobilize platform has helped 3,000 advocacy organizations, nonprofits, unions, and political campaigns like Planned Parenthood Action Fund, the Human Rights Campaign, AARP, and the Biden/Harris campaign sign up more than 5 million supporters for over 20 million actions.
 
 We are looking for a Senior Software Team Lead to help our small but mighty team of Engineers meet the challenges of the 2024 election and beyond.
 
