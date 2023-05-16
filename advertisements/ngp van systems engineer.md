@@ -20,7 +20,7 @@ This is a full-time position with some on-site work in Boston.  Our team values 
 These are really the actual minimum requirements - if you don't meet them your application will not be considered, and if you do meet them we encourage you to apply even if you feel underqualified.
 
 * 3+ years of professional IT experience
-* At least 2 years in production, internet-facing-system support, involving:
+* 2+ years of production, internet-facing-system support, involving:
 	* Windows Server operating systems
 	* Web, email, and database application servers
 * 2+ years of experience with scripting languages (PowerShell, Windows batch file, VBScript, Bash, etc.)
